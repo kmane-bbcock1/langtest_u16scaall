@@ -2,19 +2,19 @@
 language: scala
 
 #version number
-scala:
-    - 2.11.0
-    - 2.9.3
-    - 2.10.5
-    - 2.10.6
-    - 2.11.8
-    - 2.12.0
-    - 2.12.1
+#scala:
+ #   - 2.11.0
+ #   - 2.9.3
+ #   - 2.10.5
+ #   - 2.10.6
+ #   - 2.11.8
+  #  - 2.12.0
+  #  - 2.12.1
 
-jdk: 
-  - openjdk7
-  - oraclejdk7
-  - oraclejdk8
+#jdk: 
+#  - openjdk7
+#  - oraclejdk7
+#  - oraclejdk8
 
 services:
  # - cassandra 
